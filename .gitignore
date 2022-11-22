@@ -1,0 +1,6 @@
+global-groovy.log
+reports/
+soapui-errors.log
+soapui.log
+target/
+
